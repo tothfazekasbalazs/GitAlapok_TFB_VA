@@ -1,0 +1,4 @@
+Repository: verziókövetés alatt álló állományok halmaza
+Fork: egy repo ekvivalens másoltata,más hozzáférési jogosulstságokkal
+Branch: egy repo-n belüli fejlesztése ág
+Commit: változtatások atomi egysége
